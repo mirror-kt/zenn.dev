@@ -1,0 +1,11 @@
+{
+  "name": "zenn.dev",
+  "version": "1.0.0",
+  "description": "zenn.dev contents",
+  "main": "index.js",
+  "repository": "https://github.com/mirror-kt/zenn.dev.git",
+  "author": "mirror-kt <me@mirror-kt.dev>",
+  "license": "All rights reserved",
+  "private": true,
+  "packageManager": "yarn@3.2.4"
+}
