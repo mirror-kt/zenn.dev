@@ -7,7 +7,7 @@
   "author": "mirror-kt <me@mirror-kt.dev>",
   "license": "All rights reserved",
   "private": true,
-  "packageManager": "yarn@3.6.4",
+  "packageManager": "yarn@4.2.2",
   "devDependencies": {
     "zenn-cli": "^0.1.131"
   }
