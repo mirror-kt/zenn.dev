@@ -3,14 +3,14 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "zenn-cli@npm:^0.1.131":
-  version: 0.1.153
-  resolution: "zenn-cli@npm:0.1.153"
+  version: 0.1.154
+  resolution: "zenn-cli@npm:0.1.154"
   bin:
     zenn: dist/server/zenn.js
-  checksum: 8/841e0bccbffc00c8833af912ac7ff6df2932a31e9ffe52a1c0da881c152fbf21e53c0c8fe00f0f08d2732b4fa99bdd498810a3d1431f138296f2adcb57759e45
+  checksum: 10c0/aabd697136a19f8e211d54ba12a63a73158451a9bb22d3efe0128a59873f6d57ed9966991378ef81751e9df782e073c9f7c7a50cd9c4ad38c656e227e7b06cf0
   languageName: node
   linkType: hard
 
