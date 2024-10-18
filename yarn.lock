@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "zenn-cli@npm:^0.1.131":
   version: 0.1.153
