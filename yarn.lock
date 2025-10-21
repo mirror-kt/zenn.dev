@@ -6,11 +6,11 @@ __metadata:
   cacheKey: 10c0
 
 "zenn-cli@npm:^0.2.0":
-  version: 0.2.4
-  resolution: "zenn-cli@npm:0.2.4"
+  version: 0.2.5
+  resolution: "zenn-cli@npm:0.2.5"
   bin:
     zenn: dist/server/zenn.js
-  checksum: 10c0/e9a95142a181ec69e9aab2cd012217fe436b9931802fdf557c4f3b91ff5c9d55d0459e7088186113be7e6be5cc2dc5780afb53e3e4cab413e0d2d1548d8de11e
+  checksum: 10c0/58e537d4ea18e135a1aaa40310ac2ca43e7071bd1ade9f4bbfc61723ec841cd980e3b421690bae7262d64f959760d5ab65cf589f2a620580177bb10c14b5260b
   languageName: node
   linkType: hard
 
