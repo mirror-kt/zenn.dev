@@ -22,12 +22,12 @@ __metadata:
   linkType: hard
 
 "default-browser@npm:^5.2.1":
-  version: 5.2.1
-  resolution: "default-browser@npm:5.2.1"
+  version: 5.3.0
+  resolution: "default-browser@npm:5.3.0"
   dependencies:
     bundle-name: "npm:^4.1.0"
     default-browser-id: "npm:^5.0.0"
-  checksum: 10c0/73f17dc3c58026c55bb5538749597db31f9561c0193cd98604144b704a981c95a466f8ecc3c2db63d8bfd04fb0d426904834cfc91ae510c6aeb97e13c5167c4d
+  checksum: 10c0/bcad4693a4c9d91bf90f83ecea25d825333865746d0d8bdb15c95d4655906be25d18778b87ee9c005c5d53d706024ec9c7905c0784af4bb7b93e0c22f6b3d9a5
   languageName: node
   linkType: hard
 
