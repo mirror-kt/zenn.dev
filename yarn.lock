@@ -96,13 +96,13 @@ __metadata:
   linkType: hard
 
 "zenn-cli@npm:^0.2.0":
-  version: 0.2.10
-  resolution: "zenn-cli@npm:0.2.10"
+  version: 0.2.11
+  resolution: "zenn-cli@npm:0.2.11"
   dependencies:
     open: "npm:^10.2.0"
   bin:
     zenn: dist/server/zenn.js
-  checksum: 10c0/597d964a2ec628c2ca7a5ca690b1fb6c220795bcc22a479a589245fc958cc3a90d7dd787827e4872de8d6484463da9abbb14dcc8223585c07c1d76563064a33d
+  checksum: 10c0/023ffb2e6e774e91fb0d700e20edae3e5cb0bf451c72e1d78a7a0d156db396620274a83cc680ce58fa893a2b6438aba93a20936531061097d0ee4fdadf2b59d6
   languageName: node
   linkType: hard
 
