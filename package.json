@@ -4,11 +4,16 @@
   "description": "zenn.dev contents",
   "main": "index.js",
   "repository": "https://github.com/mirror-kt/zenn.dev.git",
-  "author": "mirror-kt <me@mirror-kt.dev>",
+  "author": "Kano Misato <me@mirror-kt.dev>",
   "license": "All rights reserved",
   "private": true,
-  "packageManager": "yarn@4.12.0",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "new:book"
+  },
   "devDependencies": {
-    "zenn-cli": "^0.2.0"
-  }
+    "zenn-cli": "0.2.11"
+  },
+  "packageManager": "pnpm@10.26.0"
 }
